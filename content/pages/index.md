@@ -43,7 +43,7 @@ sections:
         borderRadius: xx-small
         borderWidth: 4
         borderStyle: none
-        borderColor: border-neutral
+        borderColor: border-secondary
       title:
         fontWeight: 700
         fontStyle: normal
